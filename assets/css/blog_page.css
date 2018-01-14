@@ -1,0 +1,51 @@
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+html,body{
+    height:100%;
+    width:100%;
+}
+.navbar{
+    height:55px;
+}
+hr {
+    border: none;
+    height: 2px;
+    /* Set the hr color */
+    color: #333; /* old IE */
+    background-color: #333; /* Modern Browsers */
+}
+
+
+.username{
+	font-size: 20
+}
+
+.postcontent{
+	font-size: 17
+}
+
+.postimage{
+	height: 250;
+	width: 750
+}
+
+.fa{
+
+	height: 85;
+	width: 85;
+	border: 1px solid black; 
+	border-radius: 50%;
+
+}
+
+.fa:hover {
+
+	color: #9ce1f5
+
+}
+
+.glyphicon {
+    font-size: 20px;
+}

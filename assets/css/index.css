@@ -1,0 +1,41 @@
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+html,body{
+    height:100%;
+    width:100%;
+}
+.navbar{
+    height:55px;
+}
+hr {
+    border: none;
+    height: 2px;
+    /* Set the hr color */
+    color: #333; /* old IE */
+    background-color: #333; /* Modern Browsers */
+}
+
+.glyphicon {
+    font-size: 20px;
+}
+p{
+    font-size: large;
+}
+.navbar-collapse.collapse.off {
+    display: block!important;
+}
+.navbar-collapse.collapse.off ul {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-nav.no-collapse>li,
+.navbar-nav.no-collapse {
+    float: left !important;
+}
+
+.navbar-right.no-collapse {
+    float: right!important;
+}

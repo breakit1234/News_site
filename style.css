@@ -1,0 +1,18 @@
+
+.btn-group-vertical, .buttonmodify
+{	width:100px;
+	height:40px;
+}
+button: hover
+{	width:200px;
+	height:40px;
+}
+#foot
+{
+	height:70px;
+	margin:15px ;
+}
+.btn-group-vertical col-md-2:hover
+{
+	background-color:black;
+}
