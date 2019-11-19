@@ -5,3 +5,8 @@
 
 # Disclaimer
 * The website is still under development phase.
+
+# Contributors
+---
+* [Prajjwal Yadav](https://github.com/prajjyadav)
+* [Om Raj](https://github.com/breakit1234)
